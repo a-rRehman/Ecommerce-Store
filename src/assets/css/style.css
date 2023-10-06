@@ -1,0 +1,48 @@
+/* In your global CSS file */
+body {
+  font-family: "Roboto", sans-serif;
+}
+/* In your global CSS file */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 2rem;
+  font-family: "Montserrat", sans-serif;
+  color: #5e17eb;
+  font-weight: 700;
+}
+
+.nav-item a {
+  font-weight: 700 !important;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.856);
+}
+
+.pri-icon {
+  background-color: #5e17eb;
+  padding: 5px !important;
+  font-size: 10px !important;
+  border-radius: 5px;
+}
+
+.btn-random {
+  background-color: #00bf63 !important;
+  color: white;
+  border: none !important;
+  font-weight: 600;
+}
+
+button {
+  background-color: #00bf63 !important;
+  color: white;
+  border: none !important;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #00bf63a1 !important;
+  color: white;
+}
